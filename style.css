@@ -1,0 +1,236 @@
+*
+.page{
+    width: 1440px;
+    height: 2369px;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    border-radius: 40px;
+}
+.body {
+    font-family: 'DM Sans', sens-serif;
+}
+.header{
+    width: 1440px;
+    height: 80px;
+    margin: 13px auto 15px;
+    background-color: rgb(240, 192, 175);
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_ul{
+    display: flex;
+    gap: 100px;
+    margin-right: 140px;
+}
+.header_link{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    color: #1C1C1C;
+    text-decoration: none;
+}
+.main{
+    border-radius: 40px;
+    background-color: rgb(227, 236, 206);
+}
+.inventors{
+    margin-top: 70px;
+    margin-bottom: 100px;
+    width: 500px;
+    height: 300px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.main_text1{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    max-width: 700px;
+    margin: 18px 0;
+    width: 700px;
+    height: 250px;
+    margin-left: -800px;
+}
+.main_title{
+    width: 400px;
+    height: 40px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 77px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+.main_text2{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    max-width: 850px;
+    margin: 18px 0;
+    width: 850px;
+    height: 180px;
+    margin-left: 30px; 
+}
+.Isaac{
+    margin-left: 900px;
+    margin-top: -250px;
+}
+.iframeIsaac{
+    margin-left: 150px;
+    margin-top: -350px;
+    padding: 30px;
+}
+.main1{
+    border-radius: 40px;
+    background-color: rgb(228, 234, 213);
+}
+.main2{
+    border-radius: 40px;
+    background-color: rgb(222, 225, 213);
+}
+.main_title1{
+    width: 500px;
+    height: 40px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-left: 700px;
+    margin-bottom: 30px;
+    margin-right: 300px;
+    margin-top: 30px;
+}
+.main_text3{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    max-width: 900px;
+    margin: 18px 0;
+    width: 900px;
+    height: 180px;
+    margin-left: 500px; 
+}
+.Alexander{
+    margin-left: 70px;
+    margin-top: -150px;
+
+}
+.iframeAlexander{
+    margin-left: 650px;
+    margin-top: -220px;
+    padding: 30px;
+}
+.main3{
+    border-radius: 40px;
+    background-color: rgb(217, 218, 213);
+}
+.main_title2{
+    width: 500px;
+    height: 40px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-left: 780px;
+    margin-bottom: 30px;
+    margin-right: 300px;
+    margin-top: 30px; 
+}
+.Charles{
+    margin-left: 70px;
+    margin-top: -160px;
+}
+.iframeCharles{
+    margin-left: 650px;
+    margin-top: -230px;
+    padding: 30px;
+}
+.main4{
+    border-radius: 40px;
+    background-color: rgb(217, 218, 213);
+}
+.main_title3{
+    width: 700px;
+    height: 40px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    margin-right: 300px;
+    margin-top: 30px; 
+}
+.main_text4{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    max-width: 850px;
+    margin: 18px 0;
+    width: 8500px;
+    height: 250px;
+    margin-left: 40px;
+}
+.Tim{
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+.iframeTim{
+    margin-top: -260px;
+    margin-left: 150px;
+    padding: 30px;
+}
+.main5{
+    border-radius: 40px;
+    background-color: rgb(214, 214, 214);
+}
+.main_title4{
+    width: 700px;
+    height: 40px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    margin-right: 300px;
+    margin-top: 30px;
+}
+.main_text5{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    max-width: 900px;
+    margin: 18px 0;
+    width: 900px;
+    height: 250px;
+    margin-left: 40px;
+}
+.Richard{
+    width: 300px;
+    height: 400px;
+    margin-left: 1000px;
+    margin-top: -180px;
+}
+.iframeRichard{
+    margin-left: 160px;
+    margin-top: -280px;
+    padding: 30px;
+}
